@@ -21,7 +21,7 @@ I’m passionate about building impactful web tools and intelligent systems — 
 ### 📊 GitHub Activity
 
 <!-- GitHub Stats (clean, no grade) -->
-<img src="https://github-readme-stats.vercel.app/api?username=PelumiKadeba10&show_icons=true&hide=contribs&theme=radical" alt="Pelumi's GitHub stats" height="150" />  
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=PelumiKadeba10&show_icons=true&hide=contribs&theme=radical" alt="Pelumi's GitHub stats" height="150" />   -->
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=PelumiKadeba10&theme=radical" alt="GitHub Streak" height="150" />

@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pelumi Kadeba
+# 👋 Hi there, I'm Pelumi
 
 ### 💻 Full Stack Developer | 🛠 Computer Engineer | ⚙️ Tinkerer
 

@@ -19,7 +19,8 @@ I'm passionate about building impactful web tools and intelligent systems — bl
 
 ### 📈 GitHub Stats
 
-![Pelumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PelumiKadeba10&show_icons=true&theme=radical)
+![Pelumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PelumiKadeba10&show_icons=true&hide=commits&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PelumiKadeba10&layout=compact&theme=radical)](https://github.com/PelumiKadeba10)
 
 ---

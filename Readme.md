@@ -1,42 +1,47 @@
-# 👋 Hi there, I'm Pelumi
+# 👋 Hi, I'm Pelumi Kadeba
 
-### 💻 Full Stack Developer | 🛠 Computer Engineer | ⚙️ Tinkerer
+### 💻 Full Stack Developer | 🛠 Computer Engineer | ⚙️ Systems Optimizer
 
-I'm passionate about building impactful web tools and intelligent systems — blending software efficiency with practical innovation.
+I’m passionate about building impactful web tools and intelligent systems — blending practical innovation with scalable, efficient code.
 
 ---
 
-### 🚧 Current Focus
-- 🌐 Stacks: React, Next.js, Flask, NodeJS, MongoDB, SQLite, Express
-- 💡 Exploring: ML and AI-powered tools, scalable backend systems, low-RAM optimization
+### 🚀 What I'm Working On
+- 🌐 Tech Stack: React, Next.js, Flask, Node.js, Express, MongoDB, SQLite
+- 🤖 Exploring: AI-powered tools, ML integration, low-RAM optimization, scalable backends
 
 ---
 
 ### 🧰 Tech Toolbox
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,py,flask,mongodb,nodejs,tailwind,git,github,vscode)
+
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,py,flask,nodejs,express,mongodb,sqlite,tailwind,git,github,vscode)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 
-![Pelumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PelumiKadeba10&show_icons=true&hide=commits&theme=radical)
+<!-- GitHub Stats (clean, no grade) -->
+<img src="https://github-readme-stats.vercel.app/api?username=PelumiKadeba10&show_icons=true&hide=contribs&theme=radical" alt="Pelumi's GitHub stats" height="150" />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PelumiKadeba10&layout=compact&theme=radical)](https://github.com/PelumiKadeba10)
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=PelumiKadeba10&theme=radical" alt="GitHub Streak" height="150" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PelumiKadeba10&layout=compact&theme=radical" alt="Top Languages" height="150" />
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=PelumiKadeba10&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PelumiKadeba10&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📬 Let's Connect
-- Email: [pelekadeba@gmail.com](mailto:kadebapelumi@gmail.com)
-- LinkedIn: [Pelumi Kadeba](https://www.linkedin.com/in/pelumika/)
-- Portfolio: (Coming soon…)
+### 🤝 Connect With Me
+- 📧 Email: [pelekadeba@gmail.com](mailto:pelekadeba@gmail.com)
+- 💼 LinkedIn: [Pelumi Kadeba](https://www.linkedin.com/in/pelumika/)
+- 🌐 Portfolio: Coming soon...
 
 ---
 
 > *“Building efficient systems, one line at a time.”*
-

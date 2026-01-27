@@ -40,7 +40,7 @@ I’m passionate about building impactful web tools and intelligent systems — 
 ### 🤝 Connect With Me
 - 📧 Email: [pelekadeba@gmail.com](mailto:pelekadeba@gmail.com)
 - 💼 LinkedIn: [Pelumi Kadeba](https://www.linkedin.com/in/pelumika/)
-- 🌐 Portfolio: Coming soon...
+- 🌐 Portfolio: Https://www.pelumikadeba.xyz
 
 ---
 

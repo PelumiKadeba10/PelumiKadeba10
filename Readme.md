@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pelumi Kadeba
 
-### ### 💻 Full-Stack Software Engineer | 🛠 Computer Engineer | Building Technology That Solves Real-World Problems
+### 💻 Full-Stack Software Engineer | 🛠 Computer Engineer | Building Technology That Solves Real-World Problems
 
 I’m passionate about building impactful web tools and intelligent systems — blending practical innovation with scalable, efficient code.
 

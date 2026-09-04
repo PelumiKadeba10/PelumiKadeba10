@@ -9,18 +9,15 @@ I’m passionate about building impactful web tools and intelligent systems - bl
 ### 🚀 Featured Projects
 
 - 🎯 **AI-Based Attendance Monitoring System**
-
 Facial recognition attendance system using FaceNet (Buffalo-L) & OpenCV — ~95% accuracy in well-lit conditions.
 [Frontend](https://github.com/PelumiKadeba10/frontend) · [Backend](https://github.com/PelumiKadeba10/FinalYearBackend) · [AI Server](https://github.com/PelumiKadeba10/AI_model-server)
 
 
 - 📡 **RFID Attendance Dashboard**
-
 Real-time attendance tracking with RFID hardware integration, displaying live check-ins.
 [Frontend](https://github.com/PelumiKadeba10/RFID_Frontend) · [Backend](https://github.com/PelumiKadeba10/RFID_Backend)
 
 - 🎹 **Skilled Pianist – Piano Learning Platform** 
-
 Full-stack authenticated platform for learning piano through interactive lessons.
 [Live Demo](https://www.skilledpianist.com)
 
